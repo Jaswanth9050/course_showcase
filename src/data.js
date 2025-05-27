@@ -134,7 +134,7 @@ export let data = [
       tags: "#NodeJS",
       tags1: "#Backend",
       tags2: "#FullStack",
-      thumbnailUrl: "https://nodejs.org/static/images/logo.svg",
+      thumbnailUrl: "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
       discountPrice: "30000",
       orginalPrice: "35000",
     }
